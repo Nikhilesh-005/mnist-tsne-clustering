@@ -47,6 +47,14 @@ streamlit run app.py
 - Plotly
 - Streamlit
 
+## 📸 Screenshots
+### t-SNE Cluster Visualization
+![Cluster Visualization](screenshots/cluster_visualization.png)
+
+### Misclassified Digits
+![Misclassified Digits](screenshots/misclassified_digits.png)
+
+
 ## Author
 Nikhilesh Alladasetti
 AI / Backend Internship Assignment – Sparkable Digital Solutions
